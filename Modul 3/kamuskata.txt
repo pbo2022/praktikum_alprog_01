@@ -1,0 +1,2 @@
+malam a=2 l=1 m=2  Palindrome
+senin e=1 i=1 n=2 s=1  Tidak Palindrome
